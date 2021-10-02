@@ -1,0 +1,5 @@
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\bin\Release\netcoreapp3.1\publish\Lab01.exe
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\bin\Release\netcoreapp3.1\publish\Lab01.dll
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\bin\Release\netcoreapp3.1\publish\Lab01.deps.json
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\bin\Release\netcoreapp3.1\publish\Lab01.runtimeconfig.json
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\bin\Release\netcoreapp3.1\publish\Lab01.pdb

@@ -1,0 +1,14 @@
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\obj\Debug\netcoreapp3.1\Lab01.csproj.AssemblyReference.cache
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\obj\Debug\netcoreapp3.1\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\obj\Debug\netcoreapp3.1\Lab01.AssemblyInfoInputs.cache
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\obj\Debug\netcoreapp3.1\Lab01.AssemblyInfo.cs
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\obj\Debug\netcoreapp3.1\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\bin\Debug\netcoreapp3.1\Lab01.exe
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\bin\Debug\netcoreapp3.1\Lab01.deps.json
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\bin\Debug\netcoreapp3.1\Lab01.runtimeconfig.json
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\bin\Debug\netcoreapp3.1\Lab01.runtimeconfig.dev.json
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\bin\Debug\netcoreapp3.1\Lab01.dll
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\bin\Debug\netcoreapp3.1\Lab01.pdb
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\obj\Debug\netcoreapp3.1\Lab01.dll
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\obj\Debug\netcoreapp3.1\Lab01.pdb
+C:\Users\Rolando Ziller\source\repos\Compiladores\Lab01\obj\Debug\netcoreapp3.1\Lab01.genruntimeconfig.cache
